@@ -1,0 +1,65 @@
+C:\Users\cc\Desktop\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\cc\Desktop\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\cc\Desktop\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\FileSystem.FileInfo.resources
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\FileSystem.FolderInfo.resources
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\FileSystem.Properties.Resources.resources
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\FileSystem.RenameInfo.resources
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.GenerateResource.Cache
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\FileSystem.FileSystemDialog.resources
+C:\Users\cc\Desktop\FileSystem\FileSystem\obj\Debug\FileSystem.FileEditor.resources
+G:\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+G:\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+G:\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
+G:\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+G:\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+G:\FileSystem\FileSystem\obj\Debug\ResolveAssemblyReference.cache
+G:\FileSystem\FileSystem\obj\Debug\FileSystem.FileEditor.resources
+G:\FileSystem\FileSystem\obj\Debug\FileSystem.FileInfo.resources
+G:\FileSystem\FileSystem\obj\Debug\FileSystem.FolderInfo.resources
+G:\FileSystem\FileSystem\obj\Debug\FileSystem.FileSystemDialog.resources
+G:\FileSystem\FileSystem\obj\Debug\FileSystem.Properties.Resources.resources
+G:\FileSystem\FileSystem\obj\Debug\FileSystem.RenameInfo.resources
+G:\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.GenerateResource.Cache
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.FileEditor.resources
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.FileInfo.resources
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.FolderInfo.resources
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.FileSystemDialog.resources
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.Properties.Resources.resources
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.RenameInfo.resources
+C:\Users\cc\Documents\Visual Studio 2005\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.GenerateResource.Cache
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\FileSystem.pdb
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\FileSystem.FileEditor.resources
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\FileSystem.FileInfo.resources
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\FileSystem.FolderInfo.resources
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\FileSystem.FileSystemDialog.resources
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\FileSystem.Properties.Resources.resources
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\FileSystem.RenameInfo.resources
+C:\Users\cc\Desktop\新建文件夹\src\FileSystem\obj\Debug\FileSystem.csproj.GenerateResource.Cache
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\FileSystem.pdb
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\FileSystem.FileEditor.resources
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\FileSystem.FileInfo.resources
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\FileSystem.FolderInfo.resources
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\FileSystem.FileSystemDialog.resources
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\FileSystem.Properties.Resources.resources
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\FileSystem.RenameInfo.resources
+C:\Users\cc\Desktop\074258_FileSystem\src\FileSystem\obj\Debug\FileSystem.csproj.GenerateResource.Cache
